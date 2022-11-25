@@ -1,10 +1,12 @@
 RENCANA PEMBELAJARAN
 
 - Belajar Javascript dan Framework Sejenisnya
-  *Anggular
+  *ES6
+  *Vue
   *React
 - Belajar PHP dan Framework Sejenisnya
   *Larvael
 - Belajar Frontend Developer
 - Belajar Jaringan Server
 - Belajar Hardware
+- Python
