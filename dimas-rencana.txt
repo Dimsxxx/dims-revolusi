@@ -3,6 +3,7 @@ RENCANA PEMBELAJARAN
 - Belajar Javascript dan Framework Sejenisnya
 - Belajar PHP dan Framework Sejenisnya
   *Larvael
+- Struktur Dasar
 - Belajar Frontend Developer
 - Belajar Jaringan Server
 - Belajar Hardware
