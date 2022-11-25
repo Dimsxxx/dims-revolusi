@@ -3,6 +3,7 @@ RENCANA PEMBELAJARAN
 - Belajar Javascript dan Framework Sejenisnya
   *ES6
   *Vue
+  *React
 - Belajar PHP dan Framework Sejenisnya
   *Larvael
 - Struktur Dasar
